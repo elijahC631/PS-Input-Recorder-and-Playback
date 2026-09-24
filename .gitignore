@@ -1,0 +1,8 @@
+# Cache & artifacts
+__pycache__/
+*.pyc
+recording.json
+*.zip
+dist/
+build/
+*.spec
